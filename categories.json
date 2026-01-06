@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Work",
+    "color": "#3B82F6",
+    "description": "Professional work, meetings, and job-related tasks"
+  },
+  {
+    "name": "Study",
+    "color": "#8B5CF6",
+    "description": "Learning, courses, reading educational materials"
+  },
+  {
+    "name": "Exercise",
+    "color": "#10B981",
+    "description": "Physical activity, sports, workouts"
+  },
+  {
+    "name": "Reading",
+    "color": "#F59E0B",
+    "description": "Books, articles, personal reading"
+  },
+  {
+    "name": "Creative",
+    "color": "#EC4899",
+    "description": "Art, music, writing, creative projects"
+  },
+  {
+    "name": "Social",
+    "color": "#06B6D4",
+    "description": "Time with friends, family, social activities"
+  },
+  {
+    "name": "Other",
+    "color": "#6B7280",
+    "description": "Miscellaneous activities"
+  }
+]
